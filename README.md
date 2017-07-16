@@ -47,6 +47,7 @@ Drag ‘add’ block from palette to flow canvas.
 ![ExampleFlow](/docs/images/Simple1FlowDragNewBlock.png)
 
 Connect flow input port ‘a’ to ‘add’ block input port ‘a’
+When you drag new connection and your are near enough to target point you will see either green on red glow around the target port. Green means both ports data types are compatible and red means they are not. You should not connect incompatible ports.
 
 ![ExampleFlow](/docs/images/Simple1FlowStartNewCon.png)
 ![ExampleFlow](/docs/images/Simple1FlowEndNewCon.png)
