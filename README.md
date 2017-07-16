@@ -75,7 +75,7 @@ Generated executable code.
 
 ![ExampleFlow](/docs/images/CalcFlowGencode.png)
 
-<br>
+<br/>
 
 #### Current status
 
@@ -88,26 +88,26 @@ VisualCode is implemented as Eclipse plugin.
 VisualCode uses JavaFX and for this reason you must add following line to your eclipse.ini file.
 -Dorg.osgi.framework.bundle.parent=ext
 
-So your eclipse.ini file tail should look something like this:
-...
--vmargs
--Dosgi.requiredJavaVersion=1.8
--Dorg.osgi.framework.bundle.parent=ext
--XX:+UseG1GC
--XX:+UseStringDeduplication
--Xms256m
--Xmx1024m
+So your eclipse.ini file tail should look something like this:<br/>
+...<br/>
+-vmargs<br/>
+-Dosgi.requiredJavaVersion=1.8<br/>
+-Dorg.osgi.framework.bundle.parent=ext<br/>
+-XX:+UseG1GC<br/>
+-XX:+UseStringDeduplication<br/>
+-Xms256m<br/>
+-Xmx1024m<br/>
 
-Linux users may need to set 
-export SWT_GTK3=0
-before launching Eclipse
+Linux users may need to set <br/>
+export SWT_GTK3=0<br/>
+before launching Eclipse<br/>
 VisualCode is tested only under Windows and Linux (Ubuntu).
 It may or may not work under other operating systems.
 
-Eclipse versions: 
-Eclipse Oxygen (4.7)
-Eclipse Neon (4.6)
-
+Eclipse versions: <br/>
+Eclipse Oxygen (4.7) <br/>
+Eclipse Neon (4.6) <br/>
+<br/>
 Other Eclipse versions probably won’t work.
 
 
