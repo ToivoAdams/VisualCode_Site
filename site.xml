@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/VisualCode_Feature_0.3.0.201707161555.jar" id="VisualCode_Feature" version="0.3.0.201707161555" os="linux,win32"/>
+   <feature url="features/VisualCode_Feature_0.3.0.201707161627.jar" id="VisualCode_Feature" version="0.3.0.201707161627" os="linux,win32">
+      <category name="Visual_tools_1"/>
+   </feature>
    <category-def name="Visual_tools_1" label="Visual Tools"/>
 </site>
