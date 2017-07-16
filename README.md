@@ -57,6 +57,25 @@ When you drag new connection and your are near enough to target point you will s
 Connect other ports.
 
 ![ExampleFlow](/docs/images/Simple1FlowConnected.png)
+#### More complex example
+
+Flow visual view
+
+![ExampleFlow](/docs/images/CalcFlowVisual_15jul2017.png)
+
+Blocks source code
+
+![ExampleFlow](/docs/images/SimpleCodeSource_15jul2017.png)
+
+Block visual view
+
+![ExampleFlow](/docs/images/SimpleCodeVisual_15jul2017.png)
+
+Generated executable code.
+
+![ExampleFlow](/docs/images/CalcFlowGencode.png)
+
+
 
 
 
