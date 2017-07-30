@@ -85,6 +85,8 @@ And sometimes it doesn’t operate correctly.
 
 VisualCode is implemented as Eclipse plugin.
 
+https://marketplace.eclipse.org/content/visualcode
+
 VisualCode uses JavaFX and for this reason you must add following line to your eclipse.ini file.
 -Dorg.osgi.framework.bundle.parent=ext
 
